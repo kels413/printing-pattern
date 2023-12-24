@@ -6,7 +6,7 @@
     ***
     ****
     *****
-till infinity.
+till n.
 */
 
 int main(void)
