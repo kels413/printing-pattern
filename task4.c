@@ -27,7 +27,6 @@ int main(void)
             /* code */
 
             printf("%d", count);
-            
             count++;
         }
         
