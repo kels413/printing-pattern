@@ -1,1 +1,1 @@
-# printing-pattern
+printing-patter in c
